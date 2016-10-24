@@ -19,7 +19,9 @@ Kishore Bhatia
 ** Container Orchestration - Docker Swarm to begin with
 * AWS 101
 ** EC2, S3, Cloud formation, EBS, RDS, IAM,Security groups
-* Chef/puppet
+* Configuration Management and Infra-as-code
+** Chef/Puppet/Ansible
+** Terraform
 * Build technologies - Maven, Gradle
 * Source Code repositories - GitHub
 * Domain: Agile, DevOps and CI/CD/CT
