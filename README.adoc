@@ -1,4 +1,4 @@
-= DevOps101 OSS Course for all
+= DevOpsAcademy - DevOps101 OSS Course for all
 Kishore Bhatia
 1.0, Oct 24, 2016, Asciidoctor 1.5 article template
 :toc:
@@ -6,11 +6,12 @@ Kishore Bhatia
 :quick-uri: http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
 === Vision and Mission 
+* TODO
 
 === Concept 
+* TODO
 
 === High-level Course Content
-
 * Linux Basics and Shell basic programming
 * Jenkins Distributed CI/CD Architecture (Master and build-nodes configuration for CI/CD Pipelines)
 ** Jenkins Pipeline-as-code
@@ -31,4 +32,5 @@ Kishore Bhatia
 
 
 === Candidate Pipeline and Screening Criteria
+* TODO
 
